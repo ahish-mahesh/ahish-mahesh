@@ -1,8 +1,9 @@
 # Hey there, Ahish here! :)
-
 <p align="left">
 <a href="https://linkedin.com/in/ahish-mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahish-mahesh" height="30" width="40" /></a>
 </p>
+
+![](https://github.com/ahish-mahesh/ahish-mahesh/blob/29d7f1998e4a769200747b5b0a55973802ac4744/Matrix_Coding.gif)
 
 ### About me
 
